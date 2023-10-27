@@ -11,7 +11,7 @@ public class BoardApplication {
 		
 		SpringApplication.run(BoardApplication.class, args);
 		
-		System.out.println("안녕");
+		System.out.println("다시 안녕");
 	}
 	
 
